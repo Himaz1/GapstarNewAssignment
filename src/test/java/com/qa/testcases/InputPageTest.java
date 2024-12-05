@@ -36,7 +36,7 @@ public class InputPageTest extends TestBase{
 	}
 	
 	@Test
-	public void verifyCheckBoxFunctionality() throws IOException
+	public void verifyInputFunctionality() throws IOException
 	{
 		homePage = new HomePage();
 		homePage.clickInputLink();

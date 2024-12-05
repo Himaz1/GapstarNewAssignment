@@ -34,7 +34,7 @@ public class DropDownPageTest extends TestBase{
 	}
 	
 	@Test
-	public void verifyCheckBoxFunctionality() throws IOException
+	public void verifyDropDownFunctionality() throws IOException
 	{
 		homePage = new HomePage();
 		homePage.clickDropDownLink();
