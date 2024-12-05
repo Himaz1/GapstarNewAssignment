@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-05T16:01:01 IST" name="Automation Suite" finished-at="2024-12-05T16:01:33 IST" duration-ms="32091">
+    <groups>
+    </groups>
+    <test started-at="2024-12-05T16:01:01 IST" name="Chrome Tests" finished-at="2024-12-05T16:01:20 IST" duration-ms="18738">
+      <class name="com.qa.testcases.CheckBoxPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testcases.CheckBoxPageTest@3b0fe47a]" started-at="2024-12-05T16:01:01 IST" name="setUp" finished-at="2024-12-05T16:01:08 IST" duration-ms="6216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckBoxFunctionality()[pri:0, instance:com.qa.testcases.CheckBoxPageTest@3b0fe47a]" started-at="2024-12-05T16:01:08 IST" name="verifyCheckBoxFunctionality" finished-at="2024-12-05T16:01:08 IST" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBoxFunctionality -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.testcases.CheckBoxPageTest@3b0fe47a]" started-at="2024-12-05T16:01:08 IST" name="quit" finished-at="2024-12-05T16:01:08 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.testcases.CheckBoxPageTest -->
+      <class name="com.qa.testcases.HoverPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testcases.HoverPageTest@353352b6]" started-at="2024-12-05T16:01:15 IST" name="setUp" finished-at="2024-12-05T16:01:19 IST" duration-ms="4541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMouseHoverFirstImageFunctionality()[pri:0, instance:com.qa.testcases.HoverPageTest@353352b6]" started-at="2024-12-05T16:01:19 IST" name="verifyMouseHoverFirstImageFunctionality" finished-at="2024-12-05T16:01:20 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMouseHoverFirstImageFunctionality -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.testcases.HoverPageTest@353352b6]" started-at="2024-12-05T16:01:20 IST" name="quit" finished-at="2024-12-05T16:01:20 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.testcases.HoverPageTest -->
+      <class name="com.qa.testcases.DropDownPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testcases.DropDownPageTest@48bb62]" started-at="2024-12-05T16:01:08 IST" name="setUp" finished-at="2024-12-05T16:01:14 IST" duration-ms="5297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckBoxFunctionality()[pri:0, instance:com.qa.testcases.DropDownPageTest@48bb62]" started-at="2024-12-05T16:01:14 IST" name="verifyCheckBoxFunctionality" finished-at="2024-12-05T16:01:14 IST" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBoxFunctionality -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.testcases.DropDownPageTest@48bb62]" started-at="2024-12-05T16:01:14 IST" name="quit" finished-at="2024-12-05T16:01:15 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.testcases.DropDownPageTest -->
+    </test> <!-- Chrome Tests -->
+    <test started-at="2024-12-05T16:01:01 IST" name="Firefox Tests" finished-at="2024-12-05T16:01:33 IST" duration-ms="32091">
+      <class name="com.qa.testcases.InputPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testcases.InputPageTest@710636b0]" started-at="2024-12-05T16:01:01 IST" name="setUp" finished-at="2024-12-05T16:01:12 IST" duration-ms="10778" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckBoxFunctionality()[pri:0, instance:com.qa.testcases.InputPageTest@710636b0]" started-at="2024-12-05T16:01:12 IST" name="verifyCheckBoxFunctionality" finished-at="2024-12-05T16:01:13 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBoxFunctionality -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.testcases.InputPageTest@710636b0]" started-at="2024-12-05T16:01:13 IST" name="quit" finished-at="2024-12-05T16:01:14 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.testcases.InputPageTest -->
+      <class name="com.qa.testcases.JavascriptAlertPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testcases.JavascriptAlertPageTest@3de8f619]" started-at="2024-12-05T16:01:14 IST" name="setUp" finished-at="2024-12-05T16:01:22 IST" duration-ms="8787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyJSAlertFunctionality()[pri:0, instance:com.qa.testcases.JavascriptAlertPageTest@3de8f619]" started-at="2024-12-05T16:01:22 IST" name="verifyJSAlertFunctionality" finished-at="2024-12-05T16:01:23 IST" duration-ms="562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJSAlertFunctionality -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.testcases.JavascriptAlertPageTest@3de8f619]" started-at="2024-12-05T16:01:23 IST" name="quit" finished-at="2024-12-05T16:01:24 IST" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testcases.JavascriptAlertPageTest@3de8f619]" started-at="2024-12-05T16:01:24 IST" name="setUp" finished-at="2024-12-05T16:01:32 IST" duration-ms="8528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyJSConfirmFunctionality()[pri:1, instance:com.qa.testcases.JavascriptAlertPageTest@3de8f619]" started-at="2024-12-05T16:01:32 IST" name="verifyJSConfirmFunctionality" finished-at="2024-12-05T16:01:33 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJSConfirmFunctionality -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.qa.testcases.JavascriptAlertPageTest@3de8f619]" started-at="2024-12-05T16:01:33 IST" name="quit" finished-at="2024-12-05T16:01:33 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.testcases.JavascriptAlertPageTest -->
+    </test> <!-- Firefox Tests -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
